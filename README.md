@@ -1,2 +1,2 @@
-# g-t-lesson1
+# git-lesson1
 thıs ıs for gıt lesson
